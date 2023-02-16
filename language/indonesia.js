@@ -1753,15 +1753,10 @@ exports.listMenu = (time, salam, pushname, prefix) => {
 
 ╭─❒ 「 TqTo 」 
 │○ My God
-│○ My Parents
-│○ Fatih A.
-│○ Ferdi
-│○ DikaArdnt
-│○ Mhankbarbar
-│○ Nurutomo
-│○ Rashid
-│○ ZeeoneOfc
-│○ Penyedia Module
+│○ My Team
+│○ Nizar Rahman.
+│○ Adryan Nugraha
+│○ Irham Khoiri
 ╰❒ And All Support
     `
 }
@@ -1778,7 +1773,7 @@ exports.rules = (prefix) => {
 ➡️ Mungkin dipengaruhi oleh jaringan, signal, banned oleh Whatsapp dan beberapa asalan.
 
 🗯️ Dimana saya bisa mendapatkan Script dari bot ini ?
-➡️ Script ini bisa kalian dapatkan di YouTube ZEEONE OFC
+➡️ Script ini bisa kalian Tinggal Chat Owner Yah
 
 🗯️ Boleh saya menambah ke grup?
 ➡️ Untuk itu tergantung dari owner bot sendiri
@@ -1809,8 +1804,7 @@ Goodbye`
 exports.source = () =>{
 return`*------「 SOURCE CODE 」 ------*
 
-Base : https://github.com/DikaArdnt/Hisoka-Morou
-Recode : https://s.id/YouTube-Zeeoneofc
+Mau Sc Yah Bang? Tinggal Chat Owner 
 `
 }
 exports.tos = (ownernomer) => {
@@ -2491,15 +2485,11 @@ return`╭─❒ 「 Random Cewe 」
 exports.tqto = () =>{
 	return`╭─❒ 「 TqTo 」 
 │○ My God
-│○ My Parents
-│○ Fatih A.
-│○ Ferdi
-│○ DikaArdnt
-│○ Mhankbarbar
-│○ Nurutomo
-│○ Rashid
-│○ ZeeoneOfc
-│○ Penyedia Module
+│○ My Team
+│○ Nizar Rahman.
+│○ Adryan Nugraha
+│○ Irham Khoiri
+╰❒ And All Support
 ╰❒ And All Support
 `
 }
